@@ -1,0 +1,147 @@
+.navbar {
+    background-color: #5F5D9C;
+}
+
+.navbar-toggler {
+    color: #F6F5F5;
+}
+
+.navbar-brand {
+    font-family: 'comic sans ms';
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #F6F5F5;
+}
+
+.navbar-brand:hover {
+    color: #F6F5F5;
+}
+  
+.navbar-nav .nav-link {
+    font-family: 'comic sans ms';
+    font-size: 1.2rem;
+    color: black;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #F6F5F5;
+    text-decoration: underline;
+}
+
+header {
+    margin-bottom: 10px;
+}
+
+.section#profile {
+    margin-bottom: 150px;
+}
+
+.section#profile h2 {
+    font-family: 'comic sans ms';
+    margin-left: 70px;
+    font-weight: bold;
+}
+
+.section#profile img {
+    margin-top: 10px;
+    max-width: 70%;
+}
+
+.section#profile p {
+    font-family: 'comic sans ms';
+    font-size: 1.2rem;
+}
+
+.section#certificates {
+    padding: 170px 0;
+}
+
+.section#certificates h2 {
+    font-family: 'comic sans ms';
+    margin-left: 70px;
+    margin-top: -160px;
+    margin-bottom: 100px;
+    font-weight: bold;
+}
+
+.section#educations {
+    padding: 50px 0;
+}
+
+.section#educations h2 {
+    font-family: 'comic sans ms';
+    margin-left: 70px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.section#educations ul li {
+    font-family: 'comic sans ms';
+    font-size: 1.5rem;
+}
+
+.section#educations img {
+    max-width: 25%;
+    margin-top: 10px;
+}
+
+.section#educations p {
+    font-family: 'comic sans ms';
+    margin-bottom: 50px;
+}
+
+.section#contact {
+    padding: 110px 0;
+}
+
+.section#contact h2 {
+    font-family: 'comic sans ms';
+    margin-left: 70px;
+    margin-top: -100px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.section#contact label {
+    font-family: 'comic sans ms';
+}
+
+.section#contact form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #5F5D9C;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.table-bordered {
+    border: 2px solid #dee2e6;
+    margin-top: 50px;
+}
+
+.table-bordered td {
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+body {
+    background: #F0F3FF;
+}
+
+.bg-contact {
+    background-image: url('komiGIF2.gif');
+    background-size: cover;
+    background-position: center;
+  }
+  
